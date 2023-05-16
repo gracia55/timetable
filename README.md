@@ -118,10 +118,12 @@ Execute the program
 '''
 
 # OUTPUT
-![OUTPUT](./out.png)
+![OUTPUT](./out.png)![out](https://github.com/gracia55/timetable/assets/129026838/e9133623-edc9-46c8-a311-543d32f84820)
+
 
 ## HTML VALIDATOR
-![HTMLVALIDATOR](./valid.png)
+![HTMLVALIDATOR](./valid.png)![valid](https://github.com/gracia55/timetable/assets/129026838/f93e52ae-6f24-49d3-aec1-5105beea6821)
+
 
 ## RESULT
 The program for creating timetable was executed successfully.
